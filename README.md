@@ -1,2 +1,2 @@
 # ToDo-ReactNative
-A Simple Expo-based React Native ToDo App
+A Simple Expo-based React Native ToDo App.
